@@ -9,7 +9,7 @@ namespace Terminator
    
             // console stuff
             Console.Title = "idk";
-            Console.ForegroundColor = Blue;
+            Console.ForegroundColor = ConsoleColor.Blue;
             Console.WindowHeight = 13;
             
             
